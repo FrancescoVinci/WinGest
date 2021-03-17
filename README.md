@@ -3,6 +3,7 @@ Un semplice programma gestionale sviluppato utilizzando JavaFX, ideato inizialme
 
 ## Funzionamento
 All'avvio di **WinGest** ci si troverà di fronte a una finestra raffigurante due simboli un "*tasto play*" e un "*ingranaggio*".
+
 Cliccando sull'ingranggio si accederà alle **impostazioni** in cui e possibile inserire o eliminare le parrocchie che si vuole gestire.
 
 E' **importante** sapere che una volta cancellata una parrochia verrannò anche cancellati tutti i suoi dati in modo permanente e sarà quindi impossibile recuperarli.
