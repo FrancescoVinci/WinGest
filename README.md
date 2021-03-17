@@ -18,9 +18,11 @@ Sempre all'interno del riepilogo sarà possibile **stampare** un PDF di quest'ul
 ## Utilizzo
 Di seguito sono presenti alcuni esempi di utilizzo.
 - Inserimento di una nuova parrocchia:
+- 
 ![Image](https://i.imgur.com/Be6irlb.gif)
 
 - Inserimento di un Costo:
+- 
 ![Image](https://i.imgur.com/CYMpyDZ.gif)
 
 ## License
