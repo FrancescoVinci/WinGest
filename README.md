@@ -11,6 +11,7 @@ All'avvio ci si troverà difronte a una semplice interfaccia utente, **prima not
 
 Quest'ultimi verrano inseriti all'interno del **mastrino** apposito e saranno visibili nella schermata principale insieme agli altri.
 Cliccando sul tasto Riepilogo verrà visualizzato un **compendio** dei Costi e dei Ricavi, di cassa e di banca, **raggruppati per categoria** con relativo totale, della parrochia che si sta visualizzando.
+
 Sempre all'interno del riepilogo sarà possibile **stampare** un PDF di quest'ultimo *specificando* un **nome**, seguito dall'estensione **.pdf**, e un **posto dove salvarlo**.
 
 
