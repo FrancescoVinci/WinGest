@@ -38,6 +38,7 @@ Di seguito sono presenti alcuni esempi di utilizzo.
 ![Image](https://i.imgur.com/94BFUyh.gif)
 
 - Esempio di PDF:
+
 ![Image](https://i.imgur.com/Yg0KNgt.png)
 
 
