@@ -29,13 +29,17 @@ Di seguito sono presenti alcuni esempi di utilizzo.
 
 ![Image](https://i.imgur.com/rRXqTKQ.gif)
 
-- Visualizzazione Riepilogo
+- Visualizzazione Riepilogo:
 
 ![Image](https://i.imgur.com/UEsWYVM.gif)
 
-- Stampa di un PDF
+- Stampa di un PDF:
 
 ![Image](https://i.imgur.com/94BFUyh.gif)
+
+- Esempio di PDF:
+![Image](https://i.imgur.com/Yg0KNgt.png)
+
 
 ## License
 GNU GPLv3
