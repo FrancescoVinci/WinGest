@@ -15,7 +15,7 @@ Cliccando sul tasto Riepilogo verrà visualizzato un **compendio** dei Costi e d
 
 Sempre all'interno del riepilogo sarà possibile **stampare** un PDF di quest'ultimo *specificando* un **nome**, seguito dall'estensione **.pdf**, e un **posto dove salvarlo**.
 
-![Image](https://github.com/luckyluke98/phishing_ext_tester/blob/main/images/screen.gif)
+![Image](https://imgur.com/Be6irlb)
 
 ## License
 GNU GPLv3
