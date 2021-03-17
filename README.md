@@ -15,7 +15,13 @@ Cliccando sul tasto Riepilogo verrà visualizzato un **compendio** dei Costi e d
 
 Sempre all'interno del riepilogo sarà possibile **stampare** un PDF di quest'ultimo *specificando* un **nome**, seguito dall'estensione **.pdf**, e un **posto dove salvarlo**.
 
+## Utilizzo
+Di seguito sono presenti alcuni esempi di utilizzo.
+- Inserimento di una nuova parrocchia:
 ![Image](https://i.imgur.com/Be6irlb.gif)
+
+- Inserimento di un Costo:
+![Image](https://i.imgur.com/CYMpyDZ.gif)
 
 ## License
 GNU GPLv3
