@@ -1,5 +1,5 @@
 # WinGest
-Un semplice programma gestionale sviluppato utilizzando JavaFX, ideato inizialmente per la contabiltà di Parrocchie ma facilmente convertibile per la contabilità personale o di piccole realtà.
+WinGest è un semplice programma gestionale sviluppato utilizzando JavaFX, ideato inizialmente per la contabiltà di Parrocchie ma facilmente convertibile per la contabilità personale o di piccole realtà.
 
 ## Funzionamento
 All'avvio di **WinGest** ci si troverà di fronte a una finestra raffigurante due simboli un "*tasto play*" e un "*ingranaggio*".
